@@ -5,7 +5,7 @@ This is a simple theme based off of the Railscasts textmate theme.
 Run the following in Terminal to download the theme.
 
 <pre>
-$> git clone git@github.com:jarquesp/Cast.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/ Cast.thTheme
+$> git clone git@github.com:jarquesp/Cast.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/Cast.tmTheme
 </pre>
 
 Restart Sublime Text 2, and go to Sublime Text 2 in the menu > Preferences > Color Scheme > Cast
