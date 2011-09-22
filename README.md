@@ -2,11 +2,13 @@
 This is a simple theme based off of the Railscasts textmate theme.
 
 <h2>Installation:</h2>
-Run the following in Terminal to download the theme.
+Clone Cast to whever you want on your hard drive. Copy Cast.tmTheme to your package directory.
 
-<pre>
-$> git clone git@github.com:jarquesp/Cast.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/Cast.tmTheme
-</pre>
+The "Packages" directory is located at:
+
+- OS X: ~/Library/Application Support/Sublime Text 2/Packages/
+- Linux: ~/.Sublime Text 2/Packages/
+- Windows: %APPDATA%/Sublime Text 2/Packages/
 
 Restart Sublime Text 2, and go to Sublime Text 2 in the menu > Preferences > Color Scheme > Cast
 
